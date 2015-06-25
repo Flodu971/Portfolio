@@ -1,5 +1,5 @@
 4 granges parties:
-- Accueil
-- Projets
-- A propos
-- Contact
+- Accueil: Ma presentation
+- Projets: Presentation de mes projets et les technologies utilisees
+- A propos: Presentation de mon CV (Competences et experiences)
+- Contact: formulaire, qrcode
