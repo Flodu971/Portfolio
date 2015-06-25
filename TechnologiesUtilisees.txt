@@ -1,0 +1,7 @@
+Technologies utilisees:
+- HTML5
+- CSS3
+- PHP
+
+Design
+- Template ou maquette Photoshop
